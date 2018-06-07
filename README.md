@@ -4,3 +4,7 @@ WARNING: MAY OVERFLOW YOUR MEMORY SYSTEM!!!
 
 Got the pi algorithm from http://www.craig-wood.com/nick/articles/pi-chudnovsky/ (Most of the script)
 Just tweaked it for fun.
+
+![XGH][logo]
+
+[logo]: https://github.com/LPugens/NameInPi/raw/master/horse21.png "XGH"
